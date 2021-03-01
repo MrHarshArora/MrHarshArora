@@ -30,10 +30,10 @@ I am owner of CyberGhost
 “Never underestimate the determination of a kid who is time-rich and cash-poor.”
 <br/>
 
-<a href="https://github.com/evildevill">
+<a href="https://github.com/MrHarshArora">
   <img src="https://github-readme-stats.vercel.app/api?username=MrHarshArora&show_icons=true&theme=blue-green&layout=compact" alt="evildevill GitHub Stats" />
 </a>
-<a href="https://github.com/evildevill">
+<a href="https://github.com/MrHarshArora">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrHarshArora&show_icons=true&theme=blue-green&layout=compact" alt"Most use languages"/>
 </a>
 <br />
@@ -46,6 +46,7 @@ I am owner of CyberGhost
 
 <p align="center">
  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="Twitter" style="vertical-align:top; margin:4px"> <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/php.svg" alt="Twitter" style="vertical-align:top; margin:4px"> <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="Twitter" style="vertical-align:top; margin:4px"> <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/css.svg" alt="Twitter" style="vertical-align:top; margin:4px"> <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="Twitter" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/python.svg" alt="Twitter" style="vertical-align:top; margin:4px">
  </p>
 <br/><br/>
 </p>
